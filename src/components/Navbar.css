@@ -96,7 +96,7 @@
       background: #1c2237;
       left: 0;
       opacity: 1;
-      transition: all 0.6s ease;
+      /* transition: all 0.6s ease; */
       z-index: 1;
     }
   
@@ -109,7 +109,7 @@
   
     .nav-links:hover {
       color: #f00946;
-      transform: scale(1.2);
+      /* transform: scale(1.2); */
       transition: all 0.3s ease;
     }
   
